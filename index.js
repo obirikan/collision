@@ -11,7 +11,7 @@ function distance(x1,y1,x2,y2){
 
     return Math.sqrt(Math.pow(xDistance,2)+Math.pow(yDistance,2))
 }
-
+ // mouse moverment
 let mouse={
     mx:undefined,
     my:undefined

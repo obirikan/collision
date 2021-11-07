@@ -1,0 +1,1 @@
+this is used mostly in games and it is known as collision detection
